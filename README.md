@@ -1,4 +1,14 @@
-# Getting Started with Create React App and Redux
+# Traxx for NorthQuad - React
+
+## Get up and running locally
+
+Download the repo, go to the root directory, and run `npm i`. Once packages are installed, create a file named `.env`, and add the line
+```
+REACT_APP_API_ENDPOINT=http://localhost:8000/spotify
+```
+To start the frontend server, run the command `npm start`.
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
