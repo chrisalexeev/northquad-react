@@ -6,7 +6,7 @@ Download the repo, go to the root directory, and run `npm i`. Once packages are 
 ```
 REACT_APP_API_ENDPOINT=http://localhost:8000/spotify
 ```
-Before starting the frontend server, start either the [Node](https://github.com/chrisalexeev/northquad-node) or [FastAPI](https://github.com/chrisalexeev/northquad-fastapi) backend
+Before starting the frontend server, start either the [Node](https://github.com/chrisalexeev/northquad-node) or [FastAPI](https://github.com/chrisalexeev/northquad-fastapi) backend.
 To start the frontend server, run the command `npm start`.
 
 ---
